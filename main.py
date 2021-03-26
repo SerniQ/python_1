@@ -191,5 +191,6 @@ distance = 38
 time = 3
 speed = distane / time
 print(speed)
-
+Print
+print(22)
 
